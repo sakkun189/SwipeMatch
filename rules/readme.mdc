@@ -90,17 +90,8 @@ Always
 
 ---
 
-## 🚀 開発手順
-1. リポジトリを取得
-   ```bash
-   git clone https://github.com/yourname/swipematch.git
-   cd swipematch
-   composer install
-   cp .env.example .env
-   php artisan key:generate
-   php artisan migrate --seed
-   php artisan serve
-   ```
+## 🚀 Git
+https://github.com/yourname/swipematch.git
 
 
 ## 最後に
